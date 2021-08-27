@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "ast.h": "c",
+        "errno.h": "c",
+        "fcntl.h": "c",
+        "symtab.h": "c",
+        "typeinfo": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "quad.h": "c"
+    }
+}
